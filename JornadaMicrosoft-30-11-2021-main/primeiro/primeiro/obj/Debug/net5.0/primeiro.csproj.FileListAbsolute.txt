@@ -1,0 +1,16 @@
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\primeiro.exe
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\primeiro.deps.json
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.json
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.dev.json
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\primeiro.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\ref\primeiro.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\bin\Debug\net5.0\primeiro.pdb
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.csproj.AssemblyReference.cache
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfoInputs.cache
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfo.cs
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\ref\primeiro.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.pdb
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-30-11-2021-main\primeiro\primeiro\obj\Debug\net5.0\primeiro.genruntimeconfig.cache

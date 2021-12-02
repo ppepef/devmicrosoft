@@ -1,0 +1,16 @@
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.csproj.AssemblyReference.cache
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.AssemblyInfoInputs.cache
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.AssemblyInfo.cs
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\aula02.exe
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\aula02.deps.json
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\aula02.runtimeconfig.json
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\aula02.runtimeconfig.dev.json
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\aula02.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\ref\aula02.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\bin\Debug\net5.0\aula02.pdb
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\ref\aula02.dll
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.pdb
+D:\PROJETOS\Ocean\devmicrosoft\JornadaMicrosoft-01-12-2021-main\aula02\aula02\obj\Debug\net5.0\aula02.genruntimeconfig.cache
